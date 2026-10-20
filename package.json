@@ -1,0 +1,16 @@
+{
+  "name": "jotter",
+  "version": "0.3.0",
+  "description": "A tiny command-line note taker you can extend with plugins.",
+  "type": "module",
+  "bin": {
+    "jot": "bin/jot.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
